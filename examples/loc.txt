@@ -1,0 +1,14 @@
+# This is the default localization file that 
+# the game falls back to if 'loc.txt' is missing
+#
+# See localization.hpp for more details on 
+# the file format/how the parser works
+
+Title_Welcome:      Welcome to my game framework!
+Title_Prompt:       [ Press SPACE to start ]
+
+GO_GameOver:        Game Over!
+GO_TopScores:       Top scores:
+GO_PromptRestart:   [ Press SPACE to restart ]
+GO_PromptMenu:      [ Press TAB to go to main menu ]
+
